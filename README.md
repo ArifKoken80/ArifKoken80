@@ -62,6 +62,12 @@ languages: [ Turkish, English ]
 
 ---
 
+<p align="center">
+  <img src="./assets/radar.svg" width="90%" alt="security operations radar" />
+</p>
+
+---
+
 ## 🧰 `> ls ./arsenal`
 
 <details open>
